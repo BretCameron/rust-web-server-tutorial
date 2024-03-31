@@ -1,0 +1,11 @@
+[package]
+name = "rust-web-server-tutorial"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+chrono = "0.4.37"
+futures-util = "0.3.30"
+mongodb = "2.8.2"
+serde = "1.0.197"
