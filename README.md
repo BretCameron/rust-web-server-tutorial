@@ -1,6 +1,6 @@
 # rust-web-server-tutorial
 
-This project is features an HTTP server written in Rust using the Actix-Web framework. It provides a booking management system with endpoints for managing owners, dogs, and bookings.
+This project is features an HTTP server written in Rust using the Actix-Web framework. It provides a booking management system for dog walkers, with endpoints for managing owners, dogs, and bookings.
 
 For a detailed tutorial on how to build this project, check out my [Rust Web Server Tutorial](https://bretcameron.medium.com/) on Medium.
 
